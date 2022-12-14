@@ -15,7 +15,7 @@ The pickled dataset containing 32x32x3 color images split across labelled traini
 https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_traffic-signs-data/traffic-signs-data.zip
 
 # Clone the reposiory
-https://github.com/vamsiramakrishnan/TrafficSignRecognition.git
+https://github.com/webdeveloper1016/TrafficSignRecognition.git
 
 # Getting around the repository
 * Initially, all the code resided in the file TrafficSignClassifier.ipynb
